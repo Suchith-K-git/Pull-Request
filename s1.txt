@@ -1,2 +1,1 @@
-
-Second content added from Feature brabch in the file s1.txt
+Mani here
